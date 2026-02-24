@@ -40,6 +40,7 @@ int main() {
     long potongan = totalKeseluruhan * diskonPersen;
     long totalBayar = totalKeseluruhan - potongan;
 
+    
     // Output sesuai format gambar struk
     printf("\nMenu             Porsi   Harga    Total\n");
     printf("========================================\n");

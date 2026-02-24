@@ -36,6 +36,7 @@ void prosesPencucian(char asrama[], int setPakaian) {
         printf("   > Status: Menunggu proses cuci & bilas selesai...\n");
     }
 
+    
     // 3. Pasca Pencucian
     printf("\n----------------------------------------------------------\n");
     printf("SEMUA PAKAIAN SELESAI DICUCI!\n");

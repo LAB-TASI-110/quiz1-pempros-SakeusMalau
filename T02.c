@@ -20,6 +20,7 @@ int main() {
         scanf("%d", &nilai[i]);
     }
 
+    
     printf("\n--- HASIL PENGOLAHAN DATA ---\n");
 
     // 1. Jumlah Total Data
