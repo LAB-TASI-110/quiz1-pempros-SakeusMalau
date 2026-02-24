@@ -1,0 +1,10 @@
+Gemini
+Buatlah sebuah program dimana program tersebut meminta inputan nilai dari user lalu tentukan :
+1. Jumlah total Data 
+2. Deret Nilai (n1, n2, …, n).
+3. Kode Kelompok Siswa
+
+buat dalam bahasa c.
+untuk no 3 berdasarkan gambar ini
+
+yang ketiga itu dikelompokan berdaasarkan apa

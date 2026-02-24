@@ -1,0 +1,16 @@
+Gemini
+buatkan suatu program menggunakan bahasa c berdasarkan kejadian berikut, Ucok dan butet sedang makan malam, ditempat mereka makan diberlakukan kupon diskon ; 5% untuk pembeian 100 rb, 10% untuk pembelian 200 rb, 15% untuk pembelian 300 rb, dan seterusnya hingga kupon 25 %. Ucok akan makan 2 kali harga butet, dan ada beberapa kode sebagai berikut.
+
+lalu pada input sebagai berikut
+
+NGS
+[Porsi Butet]
+AP
+[Porsi Butet]
+GG
+[Porsi Butet]
+END
+
+
+dan pada output
+seperti yang ada pada gambar
